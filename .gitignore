@@ -1,0 +1,14 @@
+*.csv
+*.xlsx
+*.xls
+.venv
+*.pdf
+*.pptx
+*.env
+__pycache__
+.DS_Store
+uv.lock
+pyproject.toml
+requirements.txt
+__init__.py
+*.env
