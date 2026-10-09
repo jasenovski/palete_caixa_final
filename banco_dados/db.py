@@ -9,7 +9,7 @@ from datetime import datetime
 load_dotenv("db_palete_caixa.env", override=True)
 
 HOST = os.getenv("HOST")
-PORT = os.getenv("PORT")
+PORT = os.getenv("DB_PORT")
 USER = os.getenv("USER")
 DATABASE = os.getenv("DATABASE")
 PASS = os.getenv("PASS")
